@@ -2,6 +2,6 @@
 
 module.exports = {
   rules: {
-    'comma-dangle': require('./comma-dangle'),
+    'comma-dangle': require('./rules/comma-dangle'),
   },
 };
