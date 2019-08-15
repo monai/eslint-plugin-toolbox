@@ -1,0 +1,16 @@
+{
+  "name": "@monai/eslint-plugin-toolbox",
+  "version": "0.0.1",
+  "description": "ESLint rule overrides",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "main": "lib/index.js",
+  "dependencies": {
+    "eslint-rule-composer": "^0.3.0"
+  },
+  "author": "monai",
+  "license": "ISC"
+}
