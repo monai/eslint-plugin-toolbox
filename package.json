@@ -12,5 +12,8 @@
     "eslint-plugin"
   ],
   "author": "monai",
-  "license": "ISC"
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": "^6.1.0"
+  }
 }
