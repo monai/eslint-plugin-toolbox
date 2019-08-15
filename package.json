@@ -1,6 +1,6 @@
 {
   "name": "@monai/eslint-plugin-toolbox",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ESLint rule overrides",
   "main": "index.js",
   "dependencies": {
